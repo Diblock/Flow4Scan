@@ -100,7 +100,7 @@ chmod +x Flow4Scan.sh
 sudo ./Flow4Scan.sh
 
 ---
-![MEnu](1paso.jpg)
+![MENU](fotos/Menu.jpg)
 
 
 🎯 Use Cases
