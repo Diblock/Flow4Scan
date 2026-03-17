@@ -1,5 +1,7 @@
-
-
+![Bash](https://img.shields.io/badge/Bash-Tool-blue)
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-red)
+![Platform](https://img.shields.io/badge/platform-Linux-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 
 # Flow4Scan – Advanced Nmap Automation & Analysis Tool
